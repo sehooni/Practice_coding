@@ -165,12 +165,12 @@ while count <= 50:
     current = current + temp
     count += 1
 
-# print("혹은 이러한 방법으로도 가능하다!")
-#
-# while count <= 50:
-#     print(current)
-#     previous, current = current, current + previous
-#     count += 1
+print("혹은 이러한 방법으로도 가능하다!")
+
+while count <= 50:
+    print(current)
+    previous, current = current, current + previous
+    count += 1
 
 
 # 14. 구구단

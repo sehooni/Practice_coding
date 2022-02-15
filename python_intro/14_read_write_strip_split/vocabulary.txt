@@ -1,0 +1,6 @@
+sky: 하늘
+dog: 강아지
+cat: 고양이
+blue: 파랑
+pray: 기도
+winter: 겨울

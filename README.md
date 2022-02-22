@@ -54,3 +54,27 @@ python을 기반으로 한 다양한 코딩 예제 포함 개념 정리 파일
     사전(dictionary) 개념, 적용 및 예제
  - 바로가기: <https://github.com/sehooni/Practice_coding/tree/main/python_intro/10_dictionary>
 
+
+### 11_python_data
+    list(리스트)와 string(문자열), aliasing의 개념, 적용 및 예제
+ - 바로가기: <https://github.com/sehooni/Practice_coding/tree/main/python_intro/11_python_data>
+
+
+### 12_module
+    모듈(module)과 스탠다드 라이브러리(standard library)의 개념, 적용 및 예제
+ - 바로가기: <https://github.com/sehooni/Practice_coding/tree/main/python_intro/12_module>
+
+
+### 13_input
+    input 함수의 개념과 적용, 예제
+ - 바로가기: <https://github.com/sehooni/Practice_coding/tree/main/python_intro/13_input?
+
+
+### 14_read_write_strip_spilt
+    파일읽기(read), strip, split, 파일쓰기(write)의 개념, 적용 및 예제
+ - 바로가기: <https://github.com/sehooni/Practice_coding/tree/main/python_intro/14_read_write_strip_split>
+
+
+### 15_project_lotto
+    지금까지 배운 개념을 이용한 프로젝트 진행(로또 시뮬레이션 만들기)
+ - 바로가기: <https://github.com/sehooni/Practice_coding/tree/main/python_intro/15_project_lotto>

@@ -1,7 +1,7 @@
 # Practice_coding
 python을 기반으로 한 다양한 코딩 예제 포함 개념 정리 파일
 
-
+---
 ## python_intro
 python 기초 개념으로, 프로그래밍의 기반이 되는 내용을 정리해놓았다.
 

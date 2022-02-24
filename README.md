@@ -78,3 +78,7 @@ python을 기반으로 한 다양한 코딩 예제 포함 개념 정리 파일
 ### 15_project_lotto
     지금까지 배운 개념을 이용한 프로젝트 진행(로또 시뮬레이션 만들기)
  - 바로가기: <https://github.com/sehooni/Practice_coding/tree/main/python_intro/15_project_lotto>
+
+### 16_project_number_baseball
+    지금까지 배운 개념을 이용한 프로젝트 진행(숫자 야구 만들기)
+ - 바로가기: <https://github.com/sehooni/Practice_coding/tree/main/python_intro/16_project_number_baseball>

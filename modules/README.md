@@ -7,4 +7,4 @@ python을 초급, 중급으로 나눈다면, `python_intro`는 기초에 해당�
     - 모듈 만드는 방법 & 사용법
     - 모듈과 스크립트의 차이점
     - name 특수 변수
-    - 자세한 설명은 [module.md](https://github.com/sehooni/Practice_coding/blob/main/modules/0_module/module.md)에서 확인할 수 있다.
+자세한 설명은 [module.md](https://github.com/sehooni/Practice_coding/blob/main/modules/0_module/module.md)에서 확인할 수 있다.
